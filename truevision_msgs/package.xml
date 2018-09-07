@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>truevision_msgs</name>
+  <version>0.0.0</version>
+  <description>Truevision Simulation Custom ROS Messages</description>
+  <license>MIT</license>
+
+  <maintainer email="info@truevision.ai">Truevision.ai Development Team</maintainer>
+  <author email="himanshu@truevision.ai">Himanshu Pal</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>
