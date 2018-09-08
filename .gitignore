@@ -1,0 +1,14 @@
+build/
+bin/
+lib/
+lib_include/
+*.log
+*.swp
+*.user
+*~
+.idea/
+.vscode
+ros_shared_library/
+
+# ignore root CMakeLists
+CMakeLists.txt
