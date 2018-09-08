@@ -8,7 +8,7 @@ Open Terminal and navigate to src folder in your catkin workspace
 
 Then clone the repo
     
-    git clone https://github.com/truevisionai/truevision_msgs.git
+    git clone https://github.com/truevisionai/truevision_simulation_msgs.git
 
 Then go back to catkin workspace folder
 
