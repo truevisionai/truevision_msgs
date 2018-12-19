@@ -20,7 +20,7 @@ Run catkin_make, this will compile the package and make it available to your ros
 
 Don't forget to source the new package
 
-    source ~/catkin_ws/src/devel/setup.bash
+    source ~/catkin_ws/devel/setup.bash
 
 ## Help
 
